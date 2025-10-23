@@ -1,0 +1,23 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Portal SSU Mauá</title>
+  <desc id="desc">Ícone quadrado com cantos arredondados em azul escuro e texto branco: "Portal" no topo, "SSU" em destaque no centro e "Mauá" na base.</desc>
+
+  <!-- fundo arredondado -->
+  <rect x="24" y="24" width="976" height="976" rx="140" ry="140" fill="#0b4b86"></rect>
+
+  <!-- "Portal" -->
+  <text x="50%" y="230" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="120" fill="#ffffff" letter-spacing="0.5">
+    Portal
+  </text>
+
+  <!-- "SSU" grande -->
+  <text x="50%" y="520" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="420" fill="#ffffff" letter-spacing="-6">
+    SSU
+  </text>
+
+  <!-- "Mauá" com acento -->
+  <text x="50%" y="880" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="160" fill="#ffffff" letter-spacing="0.5">
+    Mauá
+  </text>
+</svg>
